@@ -1,5 +1,5 @@
 ---
-title: "About this blog"
+title: "Acerca de este blog"
 description: |
   Some additional details about the blog
 ---
