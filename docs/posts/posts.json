@@ -2,7 +2,7 @@
   {
     "path": "posts/welcome/",
     "title": "Hasta los datos",
-    "description": "Welcome to our new blog, Hasta los datos. We hope you enjoy \nreading what we have to say!",
+    "description": "Hay una historia en tus datos, pero tu software no sabe qué historia es",
     "author": [
       {
         "name": "Javier Godoy",
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-20T18:49:58+01:00",
+    "last_modified": "2020-12-20T18:53:10+01:00",
     "input_file": {}
   }
 ]
