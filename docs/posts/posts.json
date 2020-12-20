@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Hasta los datos",
+    "description": "Welcome to our new blog, Hasta los datos. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Javier Godoy",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-12-20",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-20T17:56:56+01:00",
+    "input_file": {}
+  }
+]
